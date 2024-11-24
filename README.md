@@ -9,7 +9,7 @@ A simple Java application to manage student records. This project helps you prac
 
 ## Installation  
 1. Clone the repository:  
-   git clone https://github.com/yourusername/StudentDatabaseApp.git
+   git clone https://github.com/thedondev/StudentDatabaseApp.git
 2. Navigate to the project directory:  
    cd StudentDatabaseApp
 3. Compile the Java files:  
@@ -54,5 +54,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Inspired by Master Skills.  
 
 Happy coding! 🚀
-
-Feel free to customize the placeholders like yourusername or add additional sections as needed.
